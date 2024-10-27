@@ -4,7 +4,7 @@ This is a Flutter checklist application that allows users to save and manage the
 
 ## Live Demo
 
-❇️ You can access the live version of the app [here]([http://localhost:53971/](https://ahmedelshamy4.github.io/flutter-web-app-demo/)).
+❇️ You can access the live version of the app [here]([https://ahmedelshamy4.github.io/flutter-web-app-demo/])).
 
 ## Features
 
